@@ -1,0 +1,276 @@
+*
+{
+	margin: 0;
+	padding: 0;
+	font-family: Georgia, serif;
+}
+
+body
+{
+	background-image: url(../images/blacktile.png);
+	background-attachment: fixed;
+	background-color: black;
+}
+
+#container
+{
+	margin: 0 auto;
+	width: 960px;
+	overflow: hidden !important;
+	
+}
+
+#container2
+{
+	margin: 0 auto;
+	width: 1000px;
+	overflow: hidden !important;
+	
+}
+
+header
+{
+	color: #499272;
+	height: 110px;
+	text-align: center;
+	margin-bottom: 20px;
+	background-color: #6A123C;
+}
+
+nav
+{
+	color: #3C3176;
+	width: 940px;
+	padding: 10px;
+	margin-bottom: 20px;
+	background-color: #D58EAF;
+}
+
+nav li
+{
+	display: inline;
+	list-style-type: none;
+	padding-right: 25px;
+	padding-left: 10px;
+}
+
+nav ul
+{
+	text-align: center;
+}
+
+nav a
+{
+	text-decoration: none;
+	color: #3C3176;
+	
+}
+
+aside
+{
+	color: #499272;
+	width: 215px;
+	height: 585px;
+	margin: 0 20px 10px 0;
+	float: left;
+	padding: 10px;
+	background-color: #8E2F5C;
+}
+
+aside ol
+{
+	list-style-type: none;
+}
+
+aside li
+{
+	line-height: 1.2em;
+	margin: 0 0 1em 0;
+}
+
+section
+{
+	width: 685px;
+	height: 585px;
+	padding: 10px;
+	float: right;
+	margin-bottom: 20px;
+	color: #0F5738;
+	background-color: #B15983;
+}
+
+footer
+{
+	margin-top: 10px;
+	padding: 10px;
+	clear: both;
+	color: #75AF96;
+	background-color: #470022;
+}
+
+h3
+{
+	text-align: center;
+}
+
+span
+{
+	padding-left: 1.6em;
+}
+
+#pics
+{
+	text-align: center;
+	margin-top: -13px;
+}
+
+.mainText
+{
+	line-height: 1.2em;
+	text-indent: 1.5em;
+	margin: 0 0 1.3em 0;
+	font-size: 1.1em;
+	color: #10073B;
+}
+
+.desText
+{
+	line-height: 1.2em;
+	margin: 0 0 1.3em 0;
+	font-size: 1.1em;
+	color: #10073B;
+}
+
+h4
+{
+	text-align: center;
+}
+
+h5
+{
+	text-align: center;
+}
+
+a:hover
+{
+	text-decoration: underline;
+	color: #10073B;
+}
+
+#gamesList
+{
+	padding: 10px 20px;
+	list-style-image: url(../images/heart.png);
+}
+
+.moveUp
+{
+	margin-top: -20px;
+}
+
+#pongTitle
+{
+	text-align: center;
+	clear: both;
+}
+
+#OutOfBreathTitle
+{
+	text-align: center;
+	padding-right: 70px;
+}
+
+aside a
+{
+	color: #499272;
+	text-decoration: none;
+}
+
+#pong
+{
+	width: 1005px;
+	list-style-image: url(../images/heart.png);
+	overflow: hidden;
+}
+
+#OutOfBreath
+{
+	width: 1100px;
+	list-style-image: url(../images/heart.png);
+	overflow: hidden;
+}
+
+.pong
+{
+	width: 985px;
+}
+
+.outOfBreath
+{
+	width: 1000px;
+}
+
+footer li 
+{
+	margin-left: 25px;
+}
+
+aside ul li
+{
+	margin-left: 20px;
+	list-style-image: url(../images/heart.png);
+}
+
+section ul li
+{
+	list-style-image: url(../images/heart.png);
+}
+
+section ul
+{
+	padding-left: 20px;
+}
+
+iframe
+{
+	overflow: hidden;
+	width: 1100px;
+	height: 600px;
+}
+
+table
+{
+	border: solid 1px black;
+	border-collapse: collapse;
+	margin: 10px auto 10px;
+}
+
+tr, td, th
+{
+	border: solid 2px black;
+	padding: 5px;
+	width: 100px;
+	text-align: center;
+	vertical-align: top;
+}
+
+tr:hover
+{
+	background-color: black;
+}
+
+.OOBFooter
+{
+	padding-right: 60px;
+}
+
+#main
+{
+	overflow: hidden;
+	width: 1100px;
+	height: 600px;
+	margin-bottom: 40px;
+	color: #0F5738;
+	background-color: #B15983;
+	
+}
