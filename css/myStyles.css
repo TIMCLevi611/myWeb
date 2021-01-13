@@ -25,7 +25,13 @@ body
 	margin: 0 auto;
 	width: 1000px;
 	overflow: hidden !important;
-	
+}
+
+#container3
+{
+	margin: 0 auto;
+	width: 1300px;
+	overflow: hidden !important;
 }
 
 header
@@ -40,7 +46,7 @@ header
 nav
 {
 	color: #3C3176;
-	width: 940px;
+	--width: 940px;
 	padding: 10px;
 	margin-bottom: 20px;
 	background-color: #D58EAF;
@@ -272,5 +278,4 @@ tr:hover
 	margin-bottom: 40px;
 	color: #0F5738;
 	background-color: #B15983;
-	
 }
