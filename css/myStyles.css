@@ -186,6 +186,11 @@ a:hover
 	padding-right: 70px;
 }
 
+#MicroKartTitle
+{
+	text-align: center;
+}
+
 aside a
 {
 	color: #499272;
